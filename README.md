@@ -6,6 +6,11 @@
 - 📫 How to reach me: [Gmail](mailto:dandasamuel1@gmail.com), [WhatsApp](https://wa.me/255679065304), or [Telegram](https://t.me/iamsammysd)
 - ⚡ Fun fact: *One thing I cannot live without is Internet*
 
+## Contact me
+- 🌐 [Website](https://samueldanda.com)
+- ✉️ [Gmail](mailto:dandasamuel1@gmail.com), [Yahoo](mailto:samuel_danda@yahoo.com)
+- 📝 [WhatsApp](https://wa.me/255679065304), or [Telegram](https://t.me/iamsammysd)
+
 ## Fun Algo
 ```javascript
 let facialExpression = "/*facial expression*/";
