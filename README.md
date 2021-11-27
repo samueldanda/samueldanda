@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [tzschools.com](https://tzschools.com)
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 📫 How to reach me: [Gmail](mailto:dandasamuel1@gmail.com), [WhatsApp](https://wa.me/255679065304), or [Telegram](https://t.me/iamsammysd)
-- ⚡ Fun fact: *One thing I cannot live without is Internet*
+- ⚡ Fun fact: *The first programmer was the daughter of a mad poet.*
 
 ## Contact me
 - 🌐 [Website](https://samueldanda.com)
