@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 👯 I’m looking to collaborate on any web project
-- 🔭 I’m currently working on [tzschools.com](https://tzschools.com)
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+- 👯 I’m looking to collaborate on any android project
+- 🔭 I’m currently working on [PRMS](https://github.com/samueldanda/PRMS)
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
 - 📫 How to reach me: [Gmail](mailto:dandasamuel1@gmail.com), [WhatsApp](https://wa.me/255679065304), or [Telegram](https://t.me/iamsammysd)
 - ⚡ Fun fact: *The first programmer was the daughter of a mad poet.*
 
