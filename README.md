@@ -13,6 +13,8 @@
 - ✉️ [Gmail](mailto:dandasamuel1@gmail.com), [Outlook](mailto:samuelsdanda@outlook.com), [Yahoo](mailto:samuel_danda@yahoo.com)
 - 📞 [WhatsApp](https://wa.me/255679065304), [Telegram](https://t.me/iamsammysd), [Instagram](https://www.instagram.com/iamsammysd/)
 
+
+<!--
 ## Fun Algo
 ```javascript
 let facialExpression = "/*facial expression*/";
@@ -26,7 +28,6 @@ try {
     console.log("Error 404!")
 }
 ```
-<!--
 **samueldanda/samueldanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
