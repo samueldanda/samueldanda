@@ -3,8 +3,8 @@
 ## Hi there 👋
 
 - 👯 I’m looking to collaborate on any android project
-- 🔭 I’m currently working on [PRMS](https://github.com/samueldanda/PRMS)
-- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
+- 🔭 I’m currently working on [Abasi](https://github.com/samueldanda/Abasi)
+<!-- - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) -->
 - 📫 How to reach me: [Gmail](mailto:dandasamuel1@gmail.com), [WhatsApp](https://wa.me/255679065304), or [Telegram](https://t.me/iamsammysd)
 - ⚡ Fun fact: *The first programmer was the daughter of a mad poet.*
 
