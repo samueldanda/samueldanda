@@ -9,7 +9,7 @@
 - ⚡ Fun fact: *The first programmer was the daughter of a mad poet.*
 
 ## Contact me
-- 🌐 [Website](https://samueldanda.com)
+<!-- - 🌐 [Website](https://samueldanda.com) -->
 - ✉️ [Gmail](mailto:dandasamuel1@gmail.com), [Outlook](mailto:samuelsdanda@outlook.com), [Yahoo](mailto:samuel_danda@yahoo.com)
 - 📞 [WhatsApp](https://wa.me/255679065304), [Telegram](https://t.me/iamsammysd), [Instagram](https://www.instagram.com/iamsammysd/)
 
