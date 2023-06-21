@@ -13,10 +13,11 @@
 - ✉️ [Gmail](mailto:dandasamuel1@gmail.com), [Outlook](mailto:samuelsdanda@outlook.com), [Yahoo](mailto:samuel_danda@yahoo.com)
 - 📞 [WhatsApp](https://wa.me/255679065304), [Telegram](https://t.me/iamsammysd), [Instagram](https://www.instagram.com/iamsammysd/)
 
+<!--
 ## CV
 - [Download](https://drive.google.com/file/d/1u9dpH0j4jib81jQw43tW6MJSrWLNRiA8/view?usp=drive_link)
-
-
+ -->
+  
 <!--
 ## Fun Algo
 ```javascript
