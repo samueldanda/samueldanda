@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 👯 I’m looking to collaborate on any android project
+<!-- - - - 👯 I’m looking to collaborate on any android project -->
 <!-- - - 🔭 I’m currently working on [Abasi](https://github.com/samueldanda/Abasi) -->
 <!-- - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) -->
 - 📫 How to reach me: [Gmail](mailto:dandasamuel1@gmail.com), [WhatsApp](https://wa.me/255679065304), or [Telegram](https://t.me/iamsammysd)
